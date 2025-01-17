@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(15, 196, 112);
+}
+
+h1{
+    color: red;
+
+}
+p{
+    color: rgb(40, 84, 151);
+}
+
+a:hover{
+    color: white;
+}
